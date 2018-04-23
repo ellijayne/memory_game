@@ -1,0 +1,24 @@
+body {
+	font-family: "Noto Sans", sans-serif;
+	background: #8BC7C7;
+}
+/*@font-face {
+	font-family: mikiyu-mokomori-kuro;
+	src: url("memory_game/fonts/mikiyu-mokomori-kuro");
+}*/
+h1 {
+	font-size: 30px;
+	font-weight: 800;
+	text-align: justify;
+}
+
+h2 {
+	font-size: 21px;
+	font-weight: 500;
+	text-align: justify;
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+}
