@@ -60,3 +60,7 @@ var createBoard = function() {
 };
 
 createBoard();
+
+var gameReset = document.querySelector('button').addEventListener('click', function() {
+    location.reload();
+});
